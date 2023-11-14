@@ -1,0 +1,6 @@
+outs:
+- md5: 1c869de43f1d45ee86bd300f6993fc62.dir
+  size: 76173143
+  nfiles: 6300
+  hash: md5
+  path: Clean Data
