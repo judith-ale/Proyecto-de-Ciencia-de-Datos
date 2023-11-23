@@ -33,6 +33,7 @@ dictLetras = {
     'z': 21
     }
 
+
 # Cargar una imagen, convertir a escala de grises,
 # redimensionar y retornar la imagen como array
 def getImage(image_path, height=120, width=120):
