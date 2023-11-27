@@ -60,7 +60,7 @@ loaded_model = mlflow.tensorflow.pyfunc.load_model(logged_model)
 
 
 @app.get("/api/v0/jpeg/classify")
-async def predict_funded(
+async def predict_letra(
         file: UploadFile,
         api_key: APIKey = Depends(get_api_key)
 ):
